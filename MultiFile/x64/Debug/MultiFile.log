@@ -1,0 +1,3 @@
+﻿  MultiFile.cpp
+C:\Users\CharlotteJ\source\repos\MultiFile\MultiFile.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MultiFile.vcxproj -> C:\Users\CharlotteJ\source\repos\MultiFile\x64\Debug\MultiFile.exe
